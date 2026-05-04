@@ -37,6 +37,6 @@ The Power BI dashboard features three primary views:
 
 ## How to Run
 1.  **Python:** Run the `Customer Data (EDA & Cleaning)` notebook to process the raw CSV.
-2.  **SQL:** Execute the scripts in `queries.sql` within your SQL environment to generate aggregated tables.
+2.  **SQL:** Execute the scripts in `Customer-Shopping-Behaviour-Analysis (SQL)` within your SQL environment to generate aggregated tables.
 3.  **Power BI:** Open the `Shopping_Behavior_Dashboard.pbix` file to explore the interactive visualizations.
-4.  **Presentation:** View the project summary via the Gamma file..
+4.  **Presentation:** View the project summary via the Gamma file.
